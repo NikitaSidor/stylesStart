@@ -5,12 +5,12 @@
 
 Этот репозиторий содержит следующие файлы CSS:
 
-- reset.css / reset.min.css
-- base.css / base.min.css
-- fonts.css / fonts.min.css
-- icon.css / icon.min.css
-- layout.css / layout.min.css
-- style.css / style.min.css
+- _reset.css_ / _reset.min.css_
+- _base.css_ / _base.min.css_
+- _fonts.css_ / _fonts.min.css_
+- _icon.css_ / _icon.min.css_
+- _layout.css_ / _layout.min.css_
+- _style.css_ / _style.min.css_
 
 
 ## Описание
