@@ -1,22 +1,22 @@
 # stylesStart
-(Содержание)[## Содержание]
-(Описание)[## Описание]
-(Подключение через link)[## Подключение через link]
-(Подключение через import)[## Подключение через import]
-(Лицензия)[## Лицензия]
-(Автор)[## Автор]
-(Контакты)[## Контакты]
+(Содержание)[#cодержание]
+(Описание)[#описание]
+(Подключение через link)[#подключение через link]
+(Подключение через import)[#подключение через import]
+(Лицензия)[#лицензия]
+(Автор)[#автор]
+(Контакты)[#контакты]
 
 ## Содержание
 
 Этот репозиторий содержит следующие файлы CSS:
 
-- [reset.css / reset.min.css](#reset)
-- [base.css / base.min.css](#base)
-- [fonts.css / fonts.min.css](#fonts)
-- [icon.css / icon.min.css](#icon)
-- [layout.css / layout.min.css](#layout)
-- [style.css / style.min.css](#style)
+- reset.css / reset.min.css
+- base.css / base.min.css
+- fonts.css / fonts.min.css
+- icon.css / icon.min.css
+- layout.css / layout.min.css
+- style.css / style.min.css
 
 ## Описание
 
